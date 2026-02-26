@@ -6,3 +6,7 @@ function calculateSum(a: number, b: number): number {
 }
 
 const result = calculateSum(param1, param2);
+
+
+// i am feature 2
+// 2 commit
